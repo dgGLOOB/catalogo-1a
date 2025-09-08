@@ -1,6 +1,7 @@
 body {
-    color: white;
-    background: black;
+    color: rgb(238, 130, 238);
+    background: rgb(255, 0, 0)
+;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -11,7 +12,8 @@ header {
     padding: 20px;
     font-sbody {
     color: white;
-    background: black;
+    background: rgb(255, 165, 0)
+;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
