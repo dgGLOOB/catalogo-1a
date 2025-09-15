@@ -1,5 +1,5 @@
 body {
-    color: rgb(238, 130, 238);
+    color: rgb(106, 90, 205)
     background: rgb(255, 0, 0)
 ;
     margin: 0px;
@@ -12,8 +12,7 @@ header {
     padding: 20px;
     font-sbody {
     color: white;
-    background: rgb(255, 165, 0)
-;
+    background: rgb(255, 0, 0)
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -27,7 +26,7 @@ header {
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background:rgb(210, 210, 210)
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -69,13 +68,13 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color:rgb(255, 165, 0)
 }ize: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(60, 179, 113);
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background:rgb(255, 0, 0)
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -117,5 +116,5 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(60, 60, 60)
 }
